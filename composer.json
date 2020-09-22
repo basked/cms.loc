@@ -1,0 +1,15 @@
+{
+  "name": "gt-asup6nv/cms.loc",
+  "authors": [
+    {
+      "name": "basked"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Engine\\": "engine",
+      "Engine\\DI\\": "engine/DI/"
+    }
+  }
+}
