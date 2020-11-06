@@ -5,7 +5,9 @@
       "name": "basked"
     }
   ],
-  "require": {},
+  "require": {
+    "ext-pdo": "*"
+  },
   "autoload": {
     "psr-4": {
       "Engine\\": "engine",
