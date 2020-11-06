@@ -1,6 +1,6 @@
 <?php
 
-namespace engine\Core\Database;
+namespace Engine\Core\Database;
 
 use PDO;
 
@@ -10,7 +10,7 @@ use PDO;
 class Connection
 {
     /**
-     * @var
+     * @var PDO
      */
     private $link;
 
