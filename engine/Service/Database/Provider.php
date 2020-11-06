@@ -4,7 +4,7 @@
 namespace Engine\Service\Database;
 
 use Engine\Service\AbstractProvider;
-use engine\Core\Database\Connection;
+use Engine\Core\Database\Connection;
 /**
  * Class Provider
  * @package Engine\Service\Database

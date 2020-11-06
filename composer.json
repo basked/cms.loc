@@ -6,7 +6,8 @@
     }
   ],
   "require": {
-    "ext-pdo": "*"
+    "ext-pdo": "*",
+    "symfony/var-dumper": "5.1.x-dev"
   },
   "autoload": {
     "psr-4": {
