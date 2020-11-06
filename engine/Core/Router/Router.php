@@ -13,11 +13,13 @@ class Router
     /**
      * @var
      */
-    private $routes=[];
+    private $routes = [];
     /**
      * @var
      */
     private $host;
+
+    private $dispatcher;
 
     /**
      * Router constructor.
@@ -43,5 +45,19 @@ class Router
                 'controller' => $controller,
                 'method' => $method,
             ];
-}
+    }
+
+    public function dispatch($method, $uri)
+    {
+
+    }
+
+    public function getDispatch()
+    {
+        if ($this->dispatcher . is_null()) {
+
+        }
+        return $this->dispatcher;
+    }
+
 }
