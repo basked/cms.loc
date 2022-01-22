@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '4bc4061dd13f2a2584bd869c70d8c2125a3abb0c',
+        'reference' => '49318b4eb5b2009dc3e6fc54cd0322dd338e8c9a',
         'name' => 'basked/cms.loc',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '4bc4061dd13f2a2584bd869c70d8c2125a3abb0c',
+            'reference' => '49318b4eb5b2009dc3e6fc54cd0322dd338e8c9a',
             'dev_requirement' => false,
         ),
         'symfony/polyfill-mbstring' => array(
